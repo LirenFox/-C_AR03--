@@ -10,6 +10,6 @@ int main()
         cin >> temp;
         sum+=temp*temp*temp;
     }
-    cout << sum;
+    cout << sum<< endl;
     return 0;
 }
